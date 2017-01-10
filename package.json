@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "myapp",
   "private": true,
   "scripts": {
     "start": "meteor run"
